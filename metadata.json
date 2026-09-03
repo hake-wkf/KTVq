@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 谷家智能中控屏",
+  "description": "面向C端家庭用户的AI驱动智能家居中控屏高保真交互原型，包含设备控制、背景音乐、数据统计及智能语音对话功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
